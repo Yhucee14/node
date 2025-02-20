@@ -1,4 +1,6 @@
-import { getPosts } from "./postController.js";
+import getPosts from "./postController.js";
+
+console.log(getPosts());
 
 // const { genrateRandomNumber, celcuisToFahrenheit } = require("./utils");
 
